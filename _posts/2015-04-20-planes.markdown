@@ -1,7 +1,7 @@
 ---
-title:  "Planes are cool!"
+title:  "Wanna Fly!"
 subtitle: "The Fly!"
-author: "Wferr"
+author: "Russell"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
 date:   2015-04-20 12:12:12
